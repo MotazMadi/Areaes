@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المساحة</string>
+    <string name="area_et_rectangle_width">العرض </string>
+    <string name="area_et_rectangle_height">الطول </string>
+    <string name="area_et_tringle_height">الأرتفاع </string>
+    <string name="area_et_tringle_base">القاعدة </string>
+    <string name="area_et_circle_radius">نصف القطر </string>
+    <string name="area_btn_calculte">حساب </string>
+    <string name="area_tv_answer">الإجابة </string>
+    <string name="area_welcom">مرحباً سيدي </string>
+
+
+    <string-array name="shapes">
+        <item>اختر الشكل</item>
+        <item>المستطيل</item>
+        <item>المثلث</item>
+        <item>الدائرة</item>
+
+
+    </string-array>
+</resources>

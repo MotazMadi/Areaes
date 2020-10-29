@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Areaes</string>
+
+    <string name="area_et_rectangle_width">width </string>
+    <string name="area_et_rectangle_height">height </string>
+    <string name="area_et_tringle_height">height </string>
+    <string name="area_et_tringle_base">base </string>
+    <string name="area_et_circle_radius">radius </string>
+    <string name="area_btn_calculte">calculte </string>
+    <string name="area_tv_answer">answer </string>
+    <string name="area_welcom">WELCOME SIR </string>
+
+    <string-array name="shapes">
+        <item>select shapes</item>
+        <item>rectangle</item>
+        <item>tringle</item>
+        <item>circle</item>
+
+
+    </string-array>
+
+
+</resources>
